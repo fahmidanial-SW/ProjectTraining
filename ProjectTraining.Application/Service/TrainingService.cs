@@ -2,7 +2,6 @@
 using ProjectTraining.Application.Service.Interface;
 using ProjectTraining.Application.ViewModel;
 using ProjectTraining.Domain.Entities;
-using ProjectTraining.Domain.Repositories;
 using ProjectTraining.Domain.Repository.Interface;
 
 namespace ProjectTraining.Application.Service
