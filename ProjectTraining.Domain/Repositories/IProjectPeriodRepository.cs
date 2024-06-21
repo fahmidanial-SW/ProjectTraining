@@ -1,7 +1,7 @@
-﻿using ProjectCost.Domain.Entities;
-using ProjectCost.Domain.Repository.Interface;
+﻿using ProjectTraining.Domain.Entities;
+using ProjectTraining.Domain.Repository.Interface;
 
-namespace ProjectCost.Domain.Repositories
+namespace ProjectTraining.Domain.Repositories
 {
     public interface IProjectPeriodRepository : IBaseRepository<QUE_PROJECT_PERIOD>
     {

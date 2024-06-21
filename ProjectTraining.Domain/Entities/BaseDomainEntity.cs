@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProjectCost.Domain.Entities
+namespace ProjectTraining.Domain.Entities
 {
     public abstract class BaseDomainEntity
     {

@@ -1,6 +1,6 @@
-﻿using ProjectCost.Domain.Repositories;
+﻿using ProjectTraining.Domain.Repositories;
 
-namespace ProjectCost.Domain.Entities
+namespace ProjectTraining.Domain.Entities
 {
     public class TRAINING : BaseDomainEntity
     {

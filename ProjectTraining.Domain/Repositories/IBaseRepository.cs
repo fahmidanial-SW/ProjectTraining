@@ -1,4 +1,4 @@
-﻿namespace ProjectCost.Domain.Repository.Interface
+﻿namespace ProjectTraining.Domain.Repository.Interface
 {
     public interface IBaseRepository<T>
     {

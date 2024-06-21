@@ -1,9 +1,9 @@
-﻿using ProjectCost.Domain.Entities;
-using ProjectCost.Domain.Repositories;
+﻿using ProjectTraining.Domain.Entities;
+using ProjectTraining.Domain.Repositories;
 
-namespace ProjectCost.Domain.Repository.Interface
+namespace ProjectTraining.Domain.Repository.Interface
 {
-    public interface IProjectRepository : IBaseRepository<QUE_PROJECT>, IDeleteRepository
+    public interface IProjectRepository : IBaseRepository<TRAINING>, IDeleteRepository
     {
     }
 }

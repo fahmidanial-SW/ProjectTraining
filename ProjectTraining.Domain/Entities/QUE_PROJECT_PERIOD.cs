@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectCost.Domain.Entities
+namespace ProjectTraining.Domain.Entities
 {
     public class QUE_PROJECT_PERIOD : BaseDomainEntity
     {
